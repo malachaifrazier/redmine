@@ -6,7 +6,7 @@ gem "coderay", "~> 1.1.0"
 gem "builder", ">= 3.0.4"
 gem "request_store", "1.0.5"
 gem "mime-types"
-gem "awesome_nested_set", "3.0.0"
+gem "awesome_nested_set", "3.1.4"
 gem "protected_attributes"
 gem "actionpack-action_caching"
 
